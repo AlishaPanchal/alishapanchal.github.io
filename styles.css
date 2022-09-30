@@ -1,11 +1,11 @@
 h2 {
-  font-family: brush script mt;
+  font-family: verdana;
 }
 h3 {
-  font-family: brush script mt;
+  font-family: verdana;
 }
 h4 {
-  font-family: brush script mt;
+  font-family: verdana;
 }
 table, th, td {
   border: 1px solid;
@@ -25,4 +25,5 @@ html {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 5%
 }
