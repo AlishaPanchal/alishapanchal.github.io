@@ -20,13 +20,4 @@ table.center {
 }
 html {
   background-color: #d6dbe0;
-}
-.center {
-  display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
-  height: 30px
-}
-#images {
-  text-align: center;
-}
+
