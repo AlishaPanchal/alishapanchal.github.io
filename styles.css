@@ -13,3 +13,6 @@ table, th, td {
   height: 100px
   text-align: center;
 }
+head {
+  background-color: #adb8c2;
+}
