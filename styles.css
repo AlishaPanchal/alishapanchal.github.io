@@ -9,7 +9,7 @@ h4 {
 }
 table, th, td {
   border: 1px solid;
-  width: 50%;
+  width: 75%;
   height: 100px
   text-align: center;
 }
@@ -18,5 +18,5 @@ table.center {
   margin-right: auto;
 }
 html {
-  background-color: #adb8c2;
+  background-color: #c9cfd6;
 }
