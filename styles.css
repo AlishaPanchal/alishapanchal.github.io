@@ -1,11 +1,11 @@
 h2 {
-  font-family: courier new;
+  font-family: brush script mt;
 }
 h3 {
-  font-family: courier new;
+  font-family: brush script mt;
 }
 h4 {
-  font-family: courier new;
+  font-family: brush script mt;
 }
 table, th, td {
   border: 1px solid;
@@ -25,5 +25,5 @@ html {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 25%;
 }
