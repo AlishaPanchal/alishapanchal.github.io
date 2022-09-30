@@ -21,3 +21,9 @@ table.center {
 html {
   background-color: #d6dbe0;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
